@@ -1,0 +1,57 @@
+body{
+    margin: auto;
+    padding:20px;
+    height: 70px;
+    width: 1000px;
+   
+  }
+  
+  .img-thumbnail{
+    background-color: white;
+   padding: 1px;
+    
+    
+  }
+  
+  
+  
+  .background{
+    background-color: #edeff2;
+    border-radius: 10px;
+    padding:104px;
+    margin: 20px;
+    
+  }
+  
+  
+  .first-tittle{
+    font-size: 70px;
+    
+   
+  }
+  
+  .tittles{
+    margin: 20px;
+  
+  }
+  
+  
+  h6{
+    font-size: 14px;
+  }
+  
+  h4{
+    margin: 25px;
+  }
+  
+  .last-sub{
+    margin: 40px;
+  }
+  
+  
+  
+  li{
+    list-style-position: inside;
+    font-size: 14px;
+    
+  }
